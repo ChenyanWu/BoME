@@ -9,7 +9,6 @@ we created the __BoME__ (**Bo**dy **M**otor **E**lements) dataset, comprising 1,
 </div>
 Three sample frames are shown for each clip. Instances of interest are bounded by red boxes.The LMA motor elements annotated based on the movement of the person in the red box  are shown.
 ### Downloads
-The video clips of BoME are available at [OneDrive](https://pennstateoffice365-my.sharepoint.com/:u:/g/personal/czw390_psu_edu/EcIF0Z4-wTlDr9G8IaGA1twBGk0VWDBOZG8_qkexv4aQFw?e=kJhkXS). We also provide extracted frames [here](https://pennstateoffice365-my.sharepoint.com/:u:/g/personal/czw390_psu_edu/EfPkLO9fxgRAvGf4i3j8wUgB_yCaotyC-hL_aGzwcrFl5Q?e=abcHzf).
 The annotations are here: [LMA_coding_cleaned_enlarge.csv](LMA_coding_cleaned_enlarge.csv) provides the whole annotations. We split the dataset into training and test set, namely [LMA_coding_cleaned_enlarge_train.csv](LMA_coding_cleaned_enlarge_train.csv) and [LMA_coding_cleaned_enlarge_val.csv](LMA_coding_cleaned_enlarge_val.csv).
 ### Paper
 For more details of the dataset and corresponding experiments, please refer to our [paper](https://arxiv.org/abs/2304.02187).
